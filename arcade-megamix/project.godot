@@ -18,6 +18,10 @@ config/icon="res://icon.svg"
 
 GameLoader="*res://autoload/GameLoader.gd"
 
+[gui]
+
+theme/custom_font="uid://byx7xbggfwlba"
+
 [rendering]
 
 textures/canvas_textures/default_texture_filter=0
